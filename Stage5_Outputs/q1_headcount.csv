@@ -1,0 +1,1155 @@
+plant,department,active_month,headcount
+Faisalabad Plant,Cutting,01-Apr-,1
+Head Office,Administration,01-Jul-,1
+SITE Plant,Dyeing,01-Jun-,1
+Faisalabad Plant,Packing,01-May-,1
+Head Office,Administration,01-Sep-,1
+Korangi Plant,weaving,01-Sep-,1
+Faisalabad Plant,Stitching,01/01/2,1
+Korangi Plant,Weaving,01/01/2,2
+SITE Plant,finishing,01/01/2,1
+SITE Plant,Dyeing,01/02/2,1
+SITE Plant,Processing,01/03/2,1
+Korangi Plant,Spinning,01/06/2,1
+Korangi Plant,Production Planning,01/07/2,1
+Faisalabad Plant,Cutting,01/09/2,2
+Faisalabad Plant,Stitching,01/09/2,1
+SITE Plant,Warehouse,01/11/2,1
+Head Office,Administration,02-Apr-,1
+Faisalabad Plant,Cutting,02-Aug-,1
+SITE Plant,quality control,02-Aug-,1
+Korangi Plant,Weaving,02-Jan-,1
+Head Office,Human Resources,02-Jul-,1
+Korangi Plant,Quality Control,02-Jul-,1
+SITE Plant,finishing,02-Oct-,1
+SITE Plant,Maintenance,02-Oct-,1
+Korangi Plant,spinning,02-Sep-,1
+SITE Plant,Dyeing,02-Sep-,1
+Faisalabad Plant,Stitching,02/01/2,1
+SITE Plant,Dyeing,02/02/2,1
+Korangi Plant,Weaving,02/03/2,1
+Korangi Plant,Weaving,02/05/2,1
+Faisalabad Plant,Stitching,02/06/2,1
+Korangi Plant,spinning,02/07/2,1
+SITE Plant,Finishing,02/08/2,1
+Faisalabad Plant,Stitching,02/09/2,1
+Korangi Plant,WEAVING,03-Apr-,1
+Faisalabad Plant,Quality Control,03-Aug-,1
+Faisalabad Plant,Stitching,03-Jun-,1
+Korangi Plant,Warehouse,03-May-,1
+SITE Plant,Utilities,03-Nov-,1
+SITE Plant,Finishing,03-Sep-,1
+Faisalabad Plant,Quality Control,03/01/2,1
+Korangi Plant,Weaving,03/01/2,1
+SITE Plant,dyeing,03/02/2,1
+SITE Plant,Quality Control,03/04/2,1
+Korangi Plant,maintenance,03/05/2,1
+SITE Plant,Dyeing,03/05/2,1
+Faisalabad Plant,Stitching,03/08/2,1
+Head Office,Administration,03/10/2,1
+Faisalabad Plant,Cutting,04-Feb-,1
+Faisalabad Plant,Cutting,04-Jan-,1
+Korangi Plant,Weaving,04-Jan-,1
+Head Office,IT,04-Mar-,1
+Korangi Plant,maintenance,04-May-,1
+Faisalabad Plant,Maintenance,04/01/2,1
+SITE Plant,Dyeing,04/02/2,1
+SITE Plant,processing,04/02/2,1
+SITE Plant,Quality Control,04/02/2,1
+Faisalabad Plant,Stitching,04/06/2,1
+Faisalabad Plant,PACKING,04/07/2,1
+SITE Plant,Finishing,04/07/2,1
+Faisalabad Plant,Cutting,04/08/2,1
+Faisalabad Plant,Packing,04/08/2,1
+Korangi Plant,Weaving,04/08/2,1
+SITE Plant,Finishing,04/08/2,1
+SITE Plant,Processing,04/08/2,1
+Faisalabad Plant,Stitching,04/11/2,1
+Korangi Plant,Maintenance,04/11/2,1
+Korangi Plant,Production Planning,05-Aug-,1
+Korangi Plant,Quality Control,05-May-,2
+Korangi Plant,Spinning,05-May-,1
+Korangi Plant,Maintenance,05-Sep-,1
+Faisalabad Plant,Packing,05/01/2,1
+Head Office,procurement,05/04/2,1
+Head Office,Finance,05/06/2,1
+SITE Plant,finishing,05/06/2,1
+Head Office,Compliance,05/07/2,1
+Faisalabad Plant,Stitching,05/08/2,2
+Head Office,Procurement,05/10/2,1
+SITE Plant,Warehouse,05/10/2,1
+SITE Plant,Maintenance,06-Dec-,1
+Faisalabad Plant,Stitching,06-Jan-,1
+Head Office,Compliance,06-Jan-,1
+SITE Plant,Maintenance,06-Jan-,1
+Korangi Plant,production planning,06-Jul-,1
+Korangi Plant,spinning,06-Jun-,1
+SITE Plant,Dyeing,06-Nov-,1
+SITE Plant,Warehouse,06/01/2,1
+Korangi Plant,Weaving,06/03/2,1
+Faisalabad Plant,Warehouse,06/04/2,1
+Korangi Plant,Spinning,06/07/2,1
+Korangi Plant,Quality Control,06/12/2,1
+SITE Plant,MAINTENANCE,07-Apr-,1
+SITE Plant,Dyeing,07-Feb-,1
+Faisalabad Plant,Warehouse,07-Jan-,1
+SITE Plant,Warehouse,07-Jan-,1
+Faisalabad Plant,STITCHING,07-Jun-,1
+Faisalabad Plant,cutting,07-Mar-,1
+Faisalabad Plant,packing,07-Mar-,1
+SITE Plant,Utilities,07-Nov-,2
+Korangi Plant,Spinning,07-Oct-,1
+SITE Plant,UTILITIES,07-Oct-,1
+Faisalabad Plant,Cutting,07/01/2,1
+SITE Plant,Warehouse,07/01/2,1
+Faisalabad Plant,Stitching,07/02/2,1
+Faisalabad Plant,Stitching,07/04/2,1
+SITE Plant,maintenance,07/04/2,1
+Korangi Plant,SPINNING,07/08/2,1
+Faisalabad Plant,CUTTING,07/09/2,1
+SITE Plant,Dyeing,07/09/2,1
+Head Office,IT,07/10/2,1
+SITE Plant,Processing,07/10/2,2
+Faisalabad Plant,Packing,07/11/2,1
+Faisalabad Plant,Stitching,07/11/2,1
+Faisalabad Plant,Maintenance,08-Dec-,1
+Faisalabad Plant,Packing,08-Dec-,1
+Faisalabad Plant,stitching,08-Dec-,1
+Faisalabad Plant,Stitching,08-May-,1
+Head Office,IT,08-Oct-,2
+Korangi Plant,Maintenance,08-Oct-,1
+Faisalabad Plant,Stitching,08-Sep-,1
+Faisalabad Plant,Packing,08/01/2,2
+Head Office,FINANCE,08/01/2,1
+Korangi Plant,Spinning,08/01/2,1
+SITE Plant,dyeing,08/01/2,1
+Head Office,Finance,08/03/2,1
+Faisalabad Plant,Cutting,08/04/2,1
+Korangi Plant,Spinning,08/05/2,1
+Head Office,Supply Chain,08/06/2,1
+Faisalabad Plant,stitching,08/08/2,1
+SITE Plant,Maintenance,08/08/2,1
+Korangi Plant,Weaving,08/09/2,2
+SITE Plant,Warehouse,09-Jul-,1
+Korangi Plant,Spinning,09-Sep-,1
+Korangi Plant,WEAVING,09-Sep-,1
+Korangi Plant,Weaving,09/01/2,1
+Head Office,Sales & Marketing,09/04/2,1
+Korangi Plant,spinning,09/04/2,1
+SITE Plant,Finishing,09/08/2,1
+SITE Plant,Finishing,09/09/2,1
+Korangi Plant,Weaving,09/10/2,1
+Korangi Plant,Spinning,09/11/2,1
+Korangi Plant,SPINNING,09/12/2,1
+SITE Plant,Warehouse,10-Mar-,1
+Faisalabad Plant,packing,10-Oct-,1
+Korangi Plant,warehouse,10-Sep-,1
+Head Office,SUPPLY CHAIN,10/01/2,1
+Korangi Plant,QUALITY CONTROL,10/03/2,1
+Faisalabad Plant,PACKING,10/05/2,1
+Korangi Plant,weaving,10/08/2,1
+Faisalabad Plant,warehouse,10/10/2,1
+Korangi Plant,Weaving,10/12/2,2
+SITE Plant,maintenance,10/12/2,1
+Korangi Plant,Maintenance,11-Feb-,1
+SITE Plant,MAINTENANCE,11-Oct-,1
+Korangi Plant,Weaving,11-Sep-,1
+SITE Plant,UTILITIES,11/01/2,1
+Faisalabad Plant,Maintenance,11/02/2,1
+Head Office,Compliance,11/02/2,1
+Head Office,Finance,11/04/2,1
+Faisalabad Plant,Cutting,11/05/2,3
+Korangi Plant,Spinning,11/05/2,1
+Faisalabad Plant,Stitching,11/06/2,1
+Korangi Plant,Maintenance,11/06/2,1
+SITE Plant,dyeing,11/07/2,2
+Faisalabad Plant,Stitching,11/08/2,1
+SITE Plant,Finishing,11/11/2,1
+Faisalabad Plant,Cutting,11/12/2,1
+Faisalabad Plant,Packing,11/12/2,1
+Faisalabad Plant,Stitching,12-Dec-,1
+Faisalabad Plant,Maintenance,12-Feb-,1
+Faisalabad Plant,Stitching,12-Jan-,1
+Faisalabad Plant,Stitching,12-Jun-,1
+SITE Plant,Processing,12-Jun-,2
+Faisalabad Plant,Stitching,12/02/2,1
+Head Office,SALES & MARKETING,12/02/2,1
+Faisalabad Plant,Cutting,12/05/2,1
+Faisalabad Plant,Stitching,12/05/2,1
+Faisalabad Plant,Packing,12/06/2,2
+SITE Plant,Dyeing,12/06/2,1
+Faisalabad Plant,Quality Control,12/07/2,1
+SITE Plant,Maintenance,12/07/2,1
+Head Office,Administration,12/12/2,1
+Faisalabad Plant,Quality Control,13-Apr-,1
+Korangi Plant,weaving,13-Aug-,1
+SITE Plant,DYEING,13-Feb-,1
+SITE Plant,quality control,13-Feb-,1
+SITE Plant,Finishing,13-Nov-,1
+Faisalabad Plant,Packing,13/01/2,1
+Faisalabad Plant,Quality Control,13/01/2,1
+Korangi Plant,WAREHOUSE,13/01/2,1
+SITE Plant,Quality Control,13/03/2,1
+Faisalabad Plant,Stitching,13/04/2,1
+Head Office,Compliance,13/05/2,1
+Korangi Plant,Spinning,13/07/2,1
+SITE Plant,Quality Control,13/08/2,1
+Faisalabad Plant,STITCHING,13/10/2,1
+Korangi Plant,weaving,13/11/2,1
+Head Office,it,14-Aug-,1
+Korangi Plant,Weaving,14-Jan-,1
+Faisalabad Plant,Stitching,14-Jul-,1
+SITE Plant,PROCESSING,14-Jul-,2
+Korangi Plant,Weaving,14/01/2,1
+SITE Plant,Dyeing,14/01/2,1
+Faisalabad Plant,Warehouse,14/02/2,1
+Korangi Plant,MAINTENANCE,14/02/2,1
+SITE Plant,Quality Control,14/02/2,1
+SITE Plant,Finishing,14/03/2,1
+Korangi Plant,Weaving,14/04/2,1
+SITE Plant,Maintenance,14/04/2,1
+Faisalabad Plant,Packing,14/07/2,1
+Korangi Plant,maintenance,14/07/2,1
+SITE Plant,quality control,14/07/2,1
+Korangi Plant,spinning,14/09/2,1
+SITE Plant,Warehouse,14/10/2,1
+Head Office,administration,14/11/2,1
+Faisalabad Plant,Packing,15-Aug-,1
+Head Office,Finance,15-Feb-,1
+SITE Plant,Quality Control,15-Jan-,1
+Korangi Plant,spinning,15-Jul-,1
+Head Office,administration,15-Jun-,1
+Faisalabad Plant,Stitching,15-Oct-,1
+Korangi Plant,Spinning,15-Oct-,1
+Korangi Plant,Spinning,15/03/2,1
+Korangi Plant,weaving,15/03/2,1
+Korangi Plant,Quality Control,15/05/2,1
+Faisalabad Plant,Packing,15/06/2,2
+Faisalabad Plant,stitching,15/06/2,1
+Korangi Plant,MAINTENANCE,15/07/2,1
+Korangi Plant,Spinning,15/11/2,1
+Korangi Plant,Warehouse,16-Apr-,1
+Korangi Plant,Quality Control,16-Aug-,1
+Faisalabad Plant,Stitching,16-Dec-,2
+Faisalabad Plant,Stitching,16-Jan-,1
+Faisalabad Plant,Quality Control,16-Jul-,1
+Head Office,Supply Chain,16-Mar-,2
+Faisalabad Plant,STITCHING,16-Oct-,1
+Head Office,SUPPLY CHAIN,16-Oct-,1
+Korangi Plant,Spinning,16-Oct-,1
+SITE Plant,Dyeing,16-Sep-,1
+Faisalabad Plant,Stitching,16/01/2,1
+Faisalabad Plant,Warehouse,16/02/2,1
+SITE Plant,Dyeing,16/02/2,2
+Faisalabad Plant,Maintenance,16/04/2,1
+Faisalabad Plant,Stitching,16/04/2,1
+SITE Plant,Quality Control,16/06/2,1
+Korangi Plant,Quality Control,16/08/2,1
+Korangi Plant,Spinning,16/09/2,1
+Faisalabad Plant,Stitching,16/11/2,1
+Korangi Plant,Spinning,16/11/2,1
+SITE Plant,Warehouse,16/11/2,1
+Faisalabad Plant,stitching,16/12/2,1
+Korangi Plant,Spinning,16/12/2,1
+Faisalabad Plant,Maintenance,17-Apr-,1
+Korangi Plant,Weaving,17-Aug-,1
+SITE Plant,Dyeing,17-Aug-,1
+Faisalabad Plant,Packing,17-Feb-,1
+Faisalabad Plant,Stitching,17-Feb-,1
+Head Office,Supply Chain,17-Feb-,1
+SITE Plant,UTILITIES,17-Mar-,1
+Korangi Plant,Maintenance,17-Nov-,1
+Faisalabad Plant,Stitching,17/04/2,1
+SITE Plant,Finishing,17/07/2,1
+Faisalabad Plant,Stitching,17/10/2,2
+SITE Plant,Dyeing,17/11/2,1
+Faisalabad Plant,Packing,17/12/2,1
+Korangi Plant,Spinning,18-Dec-,1
+SITE Plant,Warehouse,18-Feb-,1
+Faisalabad Plant,cutting,18-Jun-,1
+Korangi Plant,WEAVING,18-Mar-,1
+Faisalabad Plant,STITCHING,18-May-,1
+Korangi Plant,Weaving,18-May-,1
+SITE Plant,Dyeing,18-May-,1
+Faisalabad Plant,Quality Control,18-Nov-,1
+SITE Plant,dyeing,18-Sep-,1
+Faisalabad Plant,Maintenance,18/01/2,1
+Faisalabad Plant,Stitching,18/01/2,1
+Head Office,IT,18/03/2,1
+SITE Plant,Dyeing,18/07/2,1
+SITE Plant,Maintenance,18/09/2,2
+Faisalabad Plant,STITCHING,18/11/2,1
+SITE Plant,DYEING,18/12/2,1
+Faisalabad Plant,STITCHING,19-Aug-,1
+Faisalabad Plant,WAREHOUSE,19-Dec-,1
+Head Office,Finance,19-Dec-,1
+SITE Plant,Warehouse,19-Jan-,1
+Korangi Plant,Weaving,19-Nov-,2
+Korangi Plant,Spinning,19-Sep-,1
+Faisalabad Plant,Packing,19/02/2,1
+SITE Plant,DYEING,19/02/2,1
+SITE Plant,UTILITIES,19/03/2,1
+Korangi Plant,Spinning,19/04/2,1
+Korangi Plant,Weaving,19/04/2,1
+Faisalabad Plant,STITCHING,19/05/2,1
+Korangi Plant,spinning,19/08/2,1
+Korangi Plant,Spinning,19/09/2,1
+Korangi Plant,Maintenance,19/10/2,1
+Korangi Plant,Warehouse,19/12/2,1
+Korangi Plant,Maintenance,20-Apr-,1
+Head Office,Procurement,20-Feb-,1
+Korangi Plant,Weaving,20-Jan-,1
+Faisalabad Plant,Cutting,20-Jul-,1
+Faisalabad Plant,PACKING,20-Jul-,1
+Korangi Plant,Weaving,20-Mar-,1
+Korangi Plant,Production Planning,20/03/2,1
+Faisalabad Plant,Stitching,20/10/2,1
+Faisalabad Plant,Quality Control,20/11/2,1
+Faisalabad Plant,WAREHOUSE,20/11/2,1
+Head Office,it,20/12/2,1
+Faisalabad Plant,Cutting,2012-01,1
+Faisalabad Plant,Stitching,2012-01,2
+Head Office,Finance,2012-01,1
+Korangi Plant,Maintenance,2012-01,1
+SITE Plant,utilities,2012-01,1
+Faisalabad Plant,CUTTING,2012-02,1
+Faisalabad Plant,Maintenance,2012-02,1
+Korangi Plant,PRODUCTION PLANNING,2012-02,2
+Korangi Plant,Spinning,2012-02,1
+Korangi Plant,Warehouse,2012-02,1
+SITE Plant,Quality Control,2012-02,1
+Faisalabad Plant,maintenance,2012-03,2
+Faisalabad Plant,quality control,2012-03,1
+Faisalabad Plant,Stitching,2012-03,1
+SITE Plant,Dyeing,2012-03,1
+Korangi Plant,spinning,2012-04,1
+SITE Plant,dyeing,2012-04,1
+Korangi Plant,Weaving,2012-05,1
+SITE Plant,Finishing,2012-05,1
+Korangi Plant,SPINNING,2012-06,1
+SITE Plant,Finishing,2012-06,1
+Faisalabad Plant,Stitching,2012-07,1
+Head Office,sales & marketing,2012-07,1
+Korangi Plant,Weaving,2012-07,1
+SITE Plant,dyeing,2012-07,1
+SITE Plant,Quality Control,2012-07,1
+SITE Plant,warehouse,2012-07,1
+Faisalabad Plant,Stitching,2012-08,3
+Korangi Plant,Spinning,2012-08,2
+Korangi Plant,Weaving,2012-08,3
+SITE Plant,Finishing,2012-08,1
+SITE Plant,WAREHOUSE,2012-08,1
+Korangi Plant,Maintenance,2012-09,2
+Korangi Plant,WEAVING,2012-09,1
+Faisalabad Plant,packing,2012-10,1
+Faisalabad Plant,Quality Control,2012-10,1
+Korangi Plant,weaving,2012-10,2
+SITE Plant,Dyeing,2012-10,1
+SITE Plant,Finishing,2012-10,1
+Faisalabad Plant,Packing,2012-11,1
+Faisalabad Plant,STITCHING,2012-12,1
+Head Office,Procurement,2012-12,1
+SITE Plant,UTILITIES,2012-12,1
+Faisalabad Plant,Cutting,2013-01,1
+Faisalabad Plant,STITCHING,2013-01,2
+Korangi Plant,PRODUCTION PLANNING,2013-01,1
+Korangi Plant,spinning,2013-01,1
+Korangi Plant,WEAVING,2013-01,1
+Faisalabad Plant,Cutting,2013-02,1
+Faisalabad Plant,Packing,2013-02,1
+Faisalabad Plant,Warehouse,2013-02,1
+Head Office,Administration,2013-03,1
+Korangi Plant,Maintenance,2013-03,2
+Korangi Plant,Quality Control,2013-03,2
+Korangi Plant,Weaving,2013-03,1
+SITE Plant,FINISHING,2013-03,3
+SITE Plant,Quality Control,2013-03,1
+Faisalabad Plant,Packing,2013-04,2
+Faisalabad Plant,Packing,2013-05,1
+Faisalabad Plant,MAINTENANCE,2013-06,1
+Faisalabad Plant,PACKING,2013-07,3
+Faisalabad Plant,Stitching,2013-07,1
+Head Office,Finance,2013-07,1
+Korangi Plant,production planning,2013-07,1
+SITE Plant,Dyeing,2013-07,2
+Korangi Plant,Maintenance,2013-08,1
+Korangi Plant,Quality Control,2013-08,1
+Korangi Plant,Spinning,2013-08,1
+SITE Plant,Maintenance,2013-08,1
+Faisalabad Plant,Cutting,2013-09,1
+Faisalabad Plant,MAINTENANCE,2013-09,1
+Faisalabad Plant,Packing,2013-10,1
+Faisalabad Plant,warehouse,2013-10,1
+Korangi Plant,Maintenance,2013-10,1
+Korangi Plant,Weaving,2013-10,2
+SITE Plant,Finishing,2013-10,1
+SITE Plant,utilities,2013-10,1
+Faisalabad Plant,Warehouse,2013-11,1
+Korangi Plant,Spinning,2013-11,1
+Faisalabad Plant,stitching,2013-12,3
+Korangi Plant,Weaving,2013-12,2
+Faisalabad Plant,Maintenance,2014-01,1
+Faisalabad Plant,Warehouse,2014-01,1
+Head Office,Sales & Marketing,2014-01,1
+Korangi Plant,Weaving,2014-01,1
+Korangi Plant,Weaving,2014-02,1
+SITE Plant,Quality Control,2014-02,1
+Head Office,HUMAN RESOURCES,2014-03,1
+Korangi Plant,SPINNING,2014-03,1
+SITE Plant,Dyeing,2014-03,2
+SITE Plant,Quality Control,2014-03,1
+Faisalabad Plant,cutting,2014-04,1
+Head Office,Human Resources,2014-04,1
+Korangi Plant,Weaving,2014-04,1
+SITE Plant,Quality Control,2014-04,1
+Head Office,SALES & MARKETING,2014-05,1
+Korangi Plant,Maintenance,2014-05,1
+Korangi Plant,Quality Control,2014-05,1
+Korangi Plant,Spinning,2014-05,1
+SITE Plant,finishing,2014-05,1
+Korangi Plant,Quality Control,2014-06,1
+Korangi Plant,Warehouse,2014-06,1
+Faisalabad Plant,Maintenance,2014-07,1
+Faisalabad Plant,Stitching,2014-07,2
+Korangi Plant,Spinning,2014-07,3
+SITE Plant,Dyeing,2014-07,3
+SITE Plant,Processing,2014-07,1
+Faisalabad Plant,Cutting,2014-08,1
+Head Office,Human Resources,2014-08,1
+Korangi Plant,Production Planning,2014-08,2
+SITE Plant,Maintenance,2014-08,1
+Faisalabad Plant,Stitching,2014-09,2
+Head Office,Human Resources,2014-09,2
+Head Office,PROCUREMENT,2014-09,1
+Korangi Plant,Spinning,2014-09,1
+Korangi Plant,Weaving,2014-09,1
+SITE Plant,Warehouse,2014-09,1
+Faisalabad Plant,Stitching,2014-10,2
+Faisalabad Plant,packing,2014-11,1
+Faisalabad Plant,Quality Control,2014-11,1
+Faisalabad Plant,Stitching,2014-11,1
+Head Office,Administration,2014-11,1
+Korangi Plant,production planning,2014-11,1
+Korangi Plant,Quality Control,2014-11,1
+SITE Plant,Finishing,2014-11,1
+Faisalabad Plant,Stitching,2014-12,1
+Korangi Plant,QUALITY CONTROL,2014-12,1
+Korangi Plant,spinning,2015-01,1
+SITE Plant,finishing,2015-01,1
+SITE Plant,WAREHOUSE,2015-01,1
+Faisalabad Plant,Cutting,2015-02,1
+Faisalabad Plant,Stitching,2015-02,1
+Head Office,sales & marketing,2015-02,1
+SITE Plant,Finishing,2015-02,1
+SITE Plant,MAINTENANCE,2015-02,1
+Faisalabad Plant,Cutting,2015-04,1
+Faisalabad Plant,Stitching,2015-04,1
+Korangi Plant,Warehouse,2015-04,1
+Faisalabad Plant,Cutting,2015-05,2
+Korangi Plant,quality control,2015-05,1
+SITE Plant,UTILITIES,2015-05,1
+Head Office,Human Resources,2015-06,1
+Korangi Plant,Weaving,2015-06,1
+SITE Plant,Dyeing,2015-06,2
+Faisalabad Plant,CUTTING,2015-07,1
+Head Office,IT,2015-07,1
+Korangi Plant,WEAVING,2015-07,1
+SITE Plant,Utilities,2015-07,1
+Head Office,Compliance,2015-08,2
+Korangi Plant,Maintenance,2015-08,1
+Korangi Plant,WAREHOUSE,2015-08,1
+SITE Plant,Quality Control,2015-08,1
+Korangi Plant,Production Planning,2015-09,2
+Korangi Plant,Spinning,2015-09,1
+SITE Plant,Maintenance,2015-09,1
+SITE Plant,Utilities,2015-09,1
+Faisalabad Plant,Packing,2015-10,1
+Faisalabad Plant,Stitching,2015-10,1
+SITE Plant,Dyeing,2015-10,2
+Faisalabad Plant,Packing,2015-11,1
+Korangi Plant,Maintenance,2015-11,1
+SITE Plant,Dyeing,2015-11,2
+SITE Plant,Finishing,2015-11,1
+Faisalabad Plant,quality control,2015-12,1
+Faisalabad Plant,Stitching,2015-12,1
+Head Office,sales & marketing,2015-12,1
+Korangi Plant,WEAVING,2015-12,2
+SITE Plant,Dyeing,2015-12,1
+SITE Plant,quality control,2015-12,1
+Faisalabad Plant,stitching,2016-01,1
+Korangi Plant,Maintenance,2016-01,1
+Korangi Plant,spinning,2016-01,1
+Korangi Plant,Warehouse,2016-01,1
+Faisalabad Plant,cutting,2016-02,1
+Faisalabad Plant,packing,2016-02,2
+Faisalabad Plant,Warehouse,2016-02,1
+Head Office,Finance,2016-02,1
+Korangi Plant,spinning,2016-02,1
+SITE Plant,MAINTENANCE,2016-02,1
+Korangi Plant,Quality Control,2016-03,3
+Korangi Plant,Spinning,2016-03,1
+Korangi Plant,Weaving,2016-03,1
+SITE Plant,Quality Control,2016-03,1
+Faisalabad Plant,Cutting,2016-04,1
+Faisalabad Plant,Stitching,2016-04,1
+Korangi Plant,Weaving,2016-05,1
+SITE Plant,Dyeing,2016-05,1
+Korangi Plant,QUALITY CONTROL,2016-06,1
+SITE Plant,dyeing,2016-06,1
+SITE Plant,Processing,2016-06,1
+Faisalabad Plant,cutting,2016-07,1
+Korangi Plant,MAINTENANCE,2016-07,1
+Korangi Plant,WEAVING,2016-07,1
+SITE Plant,Dyeing,2016-07,2
+SITE Plant,finishing,2016-07,2
+SITE Plant,Utilities,2016-07,1
+Faisalabad Plant,Cutting,2016-08,2
+Faisalabad Plant,Stitching,2016-08,2
+Korangi Plant,Quality Control,2016-08,1
+Korangi Plant,Warehouse,2016-08,1
+Korangi Plant,Weaving,2016-08,1
+SITE Plant,Dyeing,2016-08,2
+SITE Plant,Maintenance,2016-08,1
+Faisalabad Plant,Stitching,2016-09,1
+Korangi Plant,SPINNING,2016-09,2
+Korangi Plant,weaving,2016-09,1
+SITE Plant,Finishing,2016-09,1
+Faisalabad Plant,Quality Control,2016-10,1
+Faisalabad Plant,Stitching,2016-10,1
+Korangi Plant,Spinning,2016-10,1
+Korangi Plant,Warehouse,2016-10,1
+Faisalabad Plant,CUTTING,2016-11,1
+Faisalabad Plant,Stitching,2016-11,1
+Korangi Plant,Maintenance,2016-11,1
+Korangi Plant,Spinning,2016-11,1
+Korangi Plant,Weaving,2016-11,1
+SITE Plant,Warehouse,2016-11,1
+Faisalabad Plant,Packing,2016-12,1
+Korangi Plant,MAINTENANCE,2016-12,1
+Korangi Plant,Weaving,2016-12,1
+SITE Plant,Dyeing,2016-12,1
+Faisalabad Plant,cutting,2017-01,1
+Korangi Plant,Maintenance,2017-01,1
+Korangi Plant,SPINNING,2017-02,1
+SITE Plant,Finishing,2017-02,1
+SITE Plant,Warehouse,2017-02,1
+Faisalabad Plant,Packing,2017-03,1
+Korangi Plant,MAINTENANCE,2017-03,2
+SITE Plant,PROCESSING,2017-03,1
+SITE Plant,UTILITIES,2017-03,1
+Faisalabad Plant,Cutting,2017-04,1
+Faisalabad Plant,Stitching,2017-04,1
+Korangi Plant,Weaving,2017-04,2
+Faisalabad Plant,Cutting,2017-05,2
+SITE Plant,Dyeing,2017-05,1
+Korangi Plant,weaving,2017-06,1
+Faisalabad Plant,Quality Control,2017-07,2
+Faisalabad Plant,Stitching,2017-07,2
+Korangi Plant,Weaving,2017-07,2
+SITE Plant,Dyeing,2017-07,1
+Head Office,procurement,2017-08,1
+Head Office,Sales & Marketing,2017-08,1
+Korangi Plant,Spinning,2017-08,1
+Korangi Plant,WAREHOUSE,2017-08,1
+SITE Plant,dyeing,2017-08,1
+SITE Plant,warehouse,2017-08,1
+Head Office,Finance,2017-09,1
+Head Office,Sales & Marketing,2017-09,1
+Korangi Plant,Quality Control,2017-09,1
+Head Office,Sales & Marketing,2017-10,1
+Korangi Plant,Weaving,2017-10,1
+Korangi Plant,Spinning,2017-11,1
+Korangi Plant,Warehouse,2017-11,1
+SITE Plant,Processing,2017-11,1
+Head Office,Finance,2017-12,1
+SITE Plant,Finishing,2017-12,1
+SITE Plant,utilities,2017-12,1
+SITE Plant,Warehouse,2017-12,1
+Faisalabad Plant,Cutting,2018-01,2
+Faisalabad Plant,STITCHING,2018-01,1
+Korangi Plant,Maintenance,2018-01,1
+Korangi Plant,spinning,2018-01,2
+SITE Plant,Finishing,2018-01,1
+Faisalabad Plant,quality control,2018-02,1
+Faisalabad Plant,Stitching,2018-02,1
+Faisalabad Plant,Warehouse,2018-02,2
+Korangi Plant,Maintenance,2018-02,1
+Korangi Plant,WEAVING,2018-02,1
+SITE Plant,Finishing,2018-02,1
+Faisalabad Plant,maintenance,2018-03,1
+Korangi Plant,Warehouse,2018-03,1
+Korangi Plant,Weaving,2018-03,1
+Faisalabad Plant,Cutting,2018-04,1
+Faisalabad Plant,stitching,2018-04,2
+SITE Plant,Finishing,2018-04,3
+Faisalabad Plant,Cutting,2018-05,2
+Faisalabad Plant,Packing,2018-05,2
+Faisalabad Plant,Stitching,2018-05,1
+Korangi Plant,Maintenance,2018-05,2
+Korangi Plant,Spinning,2018-05,2
+SITE Plant,Utilities,2018-05,1
+Faisalabad Plant,Cutting,2018-06,1
+Faisalabad Plant,Packing,2018-06,1
+Korangi Plant,Quality Control,2018-06,1
+Korangi Plant,Spinning,2018-06,1
+SITE Plant,Maintenance,2018-06,1
+Faisalabad Plant,Stitching,2018-07,1
+Korangi Plant,Spinning,2018-07,1
+Korangi Plant,Warehouse,2018-07,1
+SITE Plant,Finishing,2018-07,1
+SITE Plant,WAREHOUSE,2018-07,1
+Head Office,Finance,2018-08,1
+Head Office,Sales & Marketing,2018-08,1
+Korangi Plant,spinning,2018-08,1
+Korangi Plant,Warehouse,2018-08,1
+Faisalabad Plant,Packing,2018-09,1
+Korangi Plant,SPINNING,2018-09,1
+SITE Plant,Dyeing,2018-09,3
+SITE Plant,Finishing,2018-09,1
+SITE Plant,Processing,2018-09,1
+Faisalabad Plant,Packing,2018-10,1
+Korangi Plant,Production Planning,2018-10,1
+Korangi Plant,WEAVING,2018-10,1
+SITE Plant,Utilities,2018-12,1
+Faisalabad Plant,STITCHING,2019-01,2
+Head Office,Finance,2019-01,2
+Korangi Plant,Weaving,2019-01,2
+SITE Plant,Processing,2019-01,1
+SITE Plant,Quality Control,2019-01,1
+Head Office,Compliance,2019-02,1
+Korangi Plant,Production Planning,2019-02,1
+Korangi Plant,Quality Control,2019-02,1
+SITE Plant,dyeing,2019-02,1
+SITE Plant,Maintenance,2019-02,1
+Faisalabad Plant,Stitching,2019-03,1
+Head Office,Supply Chain,2019-03,2
+Korangi Plant,PRODUCTION PLANNING,2019-03,1
+Korangi Plant,Weaving,2019-03,1
+Faisalabad Plant,Stitching,2019-04,1
+Korangi Plant,Weaving,2019-04,3
+SITE Plant,DYEING,2019-04,3
+SITE Plant,finishing,2019-04,1
+SITE Plant,Warehouse,2019-04,1
+Faisalabad Plant,cutting,2019-05,1
+Faisalabad Plant,Warehouse,2019-05,1
+Korangi Plant,WEAVING,2019-05,1
+SITE Plant,UTILITIES,2019-05,1
+Korangi Plant,Weaving,2019-06,2
+SITE Plant,Dyeing,2019-06,1
+SITE Plant,Processing,2019-06,1
+SITE Plant,Warehouse,2019-06,1
+Faisalabad Plant,Maintenance,2019-07,1
+Faisalabad Plant,Stitching,2019-07,1
+Faisalabad Plant,Warehouse,2019-07,1
+Head Office,Administration,2019-07,1
+SITE Plant,Dyeing,2019-07,1
+Faisalabad Plant,cutting,2019-08,1
+Korangi Plant,Quality Control,2019-08,1
+Korangi Plant,warehouse,2019-08,1
+SITE Plant,Utilities,2019-08,1
+Korangi Plant,Spinning,2019-09,1
+Faisalabad Plant,cutting,2019-10,1
+Head Office,Compliance,2019-10,1
+Korangi Plant,weaving,2019-10,2
+SITE Plant,Maintenance,2019-10,1
+SITE Plant,Utilities,2019-10,1
+Faisalabad Plant,Stitching,2019-11,1
+Head Office,Administration,2019-11,1
+Head Office,finance,2019-11,1
+Head Office,Administration,2019-12,1
+Head Office,Finance,2019-12,1
+Head Office,Human Resources,2019-12,1
+Korangi Plant,Warehouse,2019-12,1
+SITE Plant,Dyeing,2019-12,1
+SITE Plant,Finishing,2019-12,1
+SITE Plant,Maintenance,2019-12,1
+Faisalabad Plant,Quality Control,2020-01,1
+Korangi Plant,Quality Control,2020-01,1
+Korangi Plant,spinning,2020-01,1
+SITE Plant,Dyeing,2020-01,1
+SITE Plant,Processing,2020-01,1
+Faisalabad Plant,STITCHING,2020-02,1
+Korangi Plant,Quality Control,2020-02,1
+SITE Plant,Dyeing,2020-02,1
+SITE Plant,PROCESSING,2020-02,1
+Head Office,sales & marketing,2020-03,1
+SITE Plant,Finishing,2020-03,1
+Faisalabad Plant,stitching,2020-04,1
+Head Office,IT,2020-04,1
+Korangi Plant,Weaving,2020-04,1
+SITE Plant,Processing,2020-04,1
+Faisalabad Plant,Stitching,2020-05,1
+Faisalabad Plant,Stitching,2020-06,1
+Faisalabad Plant,Warehouse,2020-06,1
+Korangi Plant,Maintenance,2020-06,2
+Korangi Plant,Spinning,2020-06,1
+Korangi Plant,weaving,2020-06,1
+SITE Plant,Processing,2020-06,1
+Faisalabad Plant,quality control,2020-07,1
+Faisalabad Plant,Stitching,2020-07,1
+Head Office,Finance,2020-07,1
+Korangi Plant,Spinning,2020-07,2
+Korangi Plant,Weaving,2020-07,1
+Faisalabad Plant,Stitching,2020-08,1
+Faisalabad Plant,Warehouse,2020-08,1
+Korangi Plant,Spinning,2020-08,1
+Korangi Plant,Weaving,2020-08,1
+SITE Plant,Maintenance,2020-08,1
+SITE Plant,Quality Control,2020-08,1
+SITE Plant,utilities,2020-08,1
+Korangi Plant,production planning,2020-09,1
+Korangi Plant,Quality Control,2020-09,1
+Faisalabad Plant,Cutting,2020-10,1
+Faisalabad Plant,Quality Control,2020-10,1
+Head Office,administration,2020-10,1
+Korangi Plant,Quality Control,2020-10,1
+Korangi Plant,spinning,2020-10,2
+SITE Plant,Finishing,2020-10,1
+SITE Plant,Processing,2020-10,1
+Faisalabad Plant,Packing,2020-11,2
+Faisalabad Plant,Stitching,2020-11,1
+Head Office,Compliance,2020-11,2
+Korangi Plant,QUALITY CONTROL,2020-11,1
+Korangi Plant,Spinning,2020-11,3
+Korangi Plant,weaving,2020-11,1
+Faisalabad Plant,Cutting,2020-12,1
+Faisalabad Plant,Packing,2020-12,1
+Head Office,finance,2020-12,1
+Head Office,procurement,2020-12,1
+Korangi Plant,quality control,2020-12,1
+Korangi Plant,Warehouse,2020-12,1
+SITE Plant,dyeing,2020-12,1
+SITE Plant,Finishing,2020-12,1
+SITE Plant,Warehouse,2020-12,1
+Faisalabad Plant,Cutting,2021-01,3
+Korangi Plant,Spinning,2021-01,1
+Korangi Plant,Weaving,2021-01,1
+SITE Plant,DYEING,2021-01,1
+SITE Plant,QUALITY CONTROL,2021-01,1
+Faisalabad Plant,Stitching,2021-02,3
+Korangi Plant,Spinning,2021-02,1
+Korangi Plant,Warehouse,2021-02,1
+SITE Plant,DYEING,2021-02,1
+Faisalabad Plant,Maintenance,2021-03,1
+Head Office,sales & marketing,2021-03,1
+Korangi Plant,MAINTENANCE,2021-03,1
+Korangi Plant,PRODUCTION PLANNING,2021-03,1
+Korangi Plant,SPINNING,2021-03,1
+SITE Plant,Processing,2021-03,1
+SITE Plant,Warehouse,2021-03,1
+Faisalabad Plant,maintenance,2021-04,1
+Korangi Plant,Spinning,2021-04,1
+SITE Plant,Quality Control,2021-04,2
+SITE Plant,Utilities,2021-04,1
+Faisalabad Plant,Maintenance,2021-05,2
+Faisalabad Plant,stitching,2021-05,1
+Korangi Plant,Spinning,2021-05,1
+SITE Plant,Finishing,2021-05,2
+Faisalabad Plant,Packing,2021-06,1
+Faisalabad Plant,Stitching,2021-06,1
+Korangi Plant,Spinning,2021-06,1
+SITE Plant,Dyeing,2021-06,1
+Faisalabad Plant,Stitching,2021-07,1
+Head Office,Human Resources,2021-07,1
+SITE Plant,dyeing,2021-07,1
+SITE Plant,PROCESSING,2021-07,1
+SITE Plant,utilities,2021-07,1
+Faisalabad Plant,Cutting,2021-08,2
+Head Office,Sales & Marketing,2021-08,1
+Korangi Plant,weaving,2021-08,1
+SITE Plant,Dyeing,2021-08,1
+SITE Plant,PROCESSING,2021-08,1
+Head Office,Finance,2021-09,1
+Korangi Plant,Weaving,2021-09,1
+SITE Plant,finishing,2021-09,1
+Korangi Plant,Weaving,2021-10,1
+SITE Plant,Dyeing,2021-10,1
+Faisalabad Plant,Cutting,2021-11,2
+Faisalabad Plant,Stitching,2021-11,1
+SITE Plant,Quality Control,2021-11,1
+Faisalabad Plant,maintenance,2021-12,1
+Faisalabad Plant,quality control,2021-12,1
+Korangi Plant,Maintenance,2021-12,1
+Korangi Plant,Spinning,2021-12,1
+Faisalabad Plant,Stitching,2022-01,1
+Korangi Plant,Warehouse,2022-01,1
+Korangi Plant,Warehouse,2022-02,2
+Korangi Plant,weaving,2022-02,1
+SITE Plant,Finishing,2022-02,1
+Head Office,Procurement,2022-03,1
+Korangi Plant,Production Planning,2022-03,1
+Korangi Plant,Spinning,2022-03,1
+Korangi Plant,Weaving,2022-03,1
+SITE Plant,DYEING,2022-03,2
+SITE Plant,FINISHING,2022-04,1
+Head Office,it,2022-05,1
+Head Office,Sales & Marketing,2022-05,1
+SITE Plant,Dyeing,2022-05,1
+SITE Plant,Dyeing,2022-06,1
+SITE Plant,Finishing,2022-06,1
+SITE Plant,Utilities,2022-06,1
+Korangi Plant,Production Planning,2022-07,1
+Korangi Plant,Weaving,2022-07,1
+SITE Plant,Dyeing,2022-07,1
+SITE Plant,Processing,2022-07,1
+SITE Plant,Utilities,2022-08,1
+Faisalabad Plant,Packing,2022-09,1
+Head Office,IT,2022-09,1
+Head Office,IT,2022-10,1
+Korangi Plant,Spinning,2022-10,1
+SITE Plant,Finishing,2022-10,2
+SITE Plant,Maintenance,2022-10,1
+Faisalabad Plant,Cutting,2022-11,1
+Faisalabad Plant,Packing,2022-11,1
+Faisalabad Plant,Stitching,2022-11,1
+SITE Plant,UTILITIES,2022-11,2
+SITE Plant,Finishing,2022-12,1
+Faisalabad Plant,quality control,2023-01,1
+Faisalabad Plant,Stitching,2023-01,1
+Head Office,Finance,2023-01,1
+Korangi Plant,Spinning,2023-01,2
+Korangi Plant,Weaving,2023-01,1
+SITE Plant,Dyeing,2023-01,1
+Faisalabad Plant,Packing,2023-02,1
+Korangi Plant,WAREHOUSE,2023-02,1
+SITE Plant,Dyeing,2023-02,2
+SITE Plant,processing,2023-02,1
+Faisalabad Plant,cutting,2023-04,1
+Korangi Plant,Weaving,2023-04,1
+Faisalabad Plant,Cutting,2023-05,1
+Korangi Plant,Spinning,2023-05,1
+SITE Plant,Warehouse,2023-05,1
+Korangi Plant,Weaving,2023-06,1
+SITE Plant,Finishing,2023-06,2
+Faisalabad Plant,STITCHING,2023-07,2
+Head Office,Finance,2023-07,1
+Head Office,Sales & Marketing,2023-07,1
+Korangi Plant,weaving,2023-07,2
+Korangi Plant,Warehouse,2023-08,1
+Faisalabad Plant,stitching,2023-09,1
+Head Office,HUMAN RESOURCES,2023-09,2
+Head Office,administration,2023-10,1
+SITE Plant,QUALITY CONTROL,2023-10,1
+Korangi Plant,Production Planning,2023-11,1
+Korangi Plant,Spinning,2023-11,1
+Faisalabad Plant,Quality Control,2023-12,1
+Korangi Plant,Quality Control,2023-12,1
+Korangi Plant,weaving,2023-12,1
+SITE Plant,Finishing,2023-12,2
+Faisalabad Plant,cutting,2024-01,1
+SITE Plant,Dyeing,2024-01,2
+SITE Plant,Finishing,2024-01,1
+SITE Plant,Utilities,2024-01,1
+Faisalabad Plant,PACKING,2024-02,1
+Head Office,IT,2024-02,2
+Korangi Plant,spinning,2024-02,1
+Korangi Plant,Warehouse,2024-02,2
+Faisalabad Plant,Cutting,2024-03,1
+Faisalabad Plant,Maintenance,2024-03,1
+Faisalabad Plant,stitching,2024-03,1
+Head Office,HUMAN RESOURCES,2024-03,1
+SITE Plant,Maintenance,2024-03,1
+SITE Plant,processing,2024-03,1
+Faisalabad Plant,Cutting,2024-04,1
+Faisalabad Plant,Packing,2024-04,2
+Faisalabad Plant,Warehouse,2024-04,1
+Head Office,IT,2024-04,1
+Faisalabad Plant,Stitching,2024-05,1
+SITE Plant,Dyeing,2024-05,1
+SITE Plant,Finishing,2024-05,1
+SITE Plant,QUALITY CONTROL,2024-05,1
+Faisalabad Plant,Packing,2024-06,1
+Head Office,Sales & Marketing,2024-06,1
+Korangi Plant,Spinning,2024-06,2
+SITE Plant,Finishing,2024-06,3
+Head Office,human resources,2024-07,1
+Korangi Plant,weaving,2024-07,1
+SITE Plant,Dyeing,2024-07,2
+SITE Plant,Finishing,2024-07,1
+Faisalabad Plant,maintenance,2024-08,1
+Faisalabad Plant,Quality Control,2024-08,1
+Faisalabad Plant,Stitching,2024-08,1
+Korangi Plant,WAREHOUSE,2024-08,1
+Korangi Plant,WEAVING,2024-08,1
+Faisalabad Plant,Quality Control,2024-09,1
+Faisalabad Plant,Stitching,2024-09,2
+Korangi Plant,Quality Control,2024-09,1
+Korangi Plant,Spinning,2024-09,1
+Faisalabad Plant,Cutting,2024-10,1
+SITE Plant,Utilities,2024-10,1
+Faisalabad Plant,MAINTENANCE,2024-11,1
+Faisalabad Plant,Cutting,2024-12,1
+Faisalabad Plant,Maintenance,2024-12,1
+Faisalabad Plant,Quality Control,2024-12,1
+Faisalabad Plant,Stitching,2024-12,1
+Korangi Plant,Weaving,2024-12,1
+SITE Plant,Maintenance,2024-12,1
+Faisalabad Plant,Cutting,2025-01,1
+Faisalabad Plant,Quality Control,2025-01,1
+Korangi Plant,Quality Control,2025-01,1
+Korangi Plant,Weaving,2025-01,1
+SITE Plant,Processing,2025-01,1
+Faisalabad Plant,Cutting,2025-02,1
+Faisalabad Plant,Stitching,2025-02,1
+Korangi Plant,Weaving,2025-02,1
+SITE Plant,UTILITIES,2025-03,1
+Faisalabad Plant,Maintenance,2025-04,1
+Korangi Plant,Spinning,2025-04,1
+SITE Plant,Quality Control,2025-04,1
+Faisalabad Plant,stitching,2025-05,1
+Head Office,Administration,2025-05,3
+SITE Plant,Warehouse,2025-05,1
+Faisalabad Plant,cutting,2025-06,1
+Korangi Plant,QUALITY CONTROL,2025-06,1
+Korangi Plant,Spinning,2025-06,1
+Faisalabad Plant,Cutting,2025-07,1
+Faisalabad Plant,Packing,2025-07,1
+Korangi Plant,Weaving,2025-07,1
+SITE Plant,Dyeing,2025-07,3
+Faisalabad Plant,Maintenance,2025-08,1
+Faisalabad Plant,Packing,2025-08,1
+Korangi Plant,SPINNING,2025-08,1
+Korangi Plant,SPINNING,2025-09,1
+SITE Plant,DYEING,2025-09,1
+Head Office,Sales & Marketing,2025-10,1
+Korangi Plant,Maintenance,2025-10,1
+Korangi Plant,Spinning,2025-10,1
+SITE Plant,Dyeing,2025-10,1
+Faisalabad Plant,maintenance,2025-11,1
+Faisalabad Plant,PACKING,2025-11,1
+Korangi Plant,Weaving,2025-11,1
+SITE Plant,Maintenance,2025-11,1
+SITE Plant,Utilities,2025-11,1
+Faisalabad Plant,Stitching,2025-12,1
+Faisalabad Plant,Stitching,2026-01,1
+Faisalabad Plant,cutting,2026-02,1
+Faisalabad Plant,Quality Control,2026-02,1
+Faisalabad Plant,Stitching,2026-02,1
+Korangi Plant,Maintenance,2026-02,1
+Korangi Plant,Spinning,2026-02,1
+SITE Plant,DYEING,2026-02,1
+SITE Plant,Processing,2026-02,1
+Faisalabad Plant,CUTTING,2026-03,1
+Korangi Plant,Maintenance,2026-03,2
+Korangi Plant,Spinning,2026-03,1
+Korangi Plant,Weaving,2026-03,1
+SITE Plant,MAINTENANCE,2026-03,1
+Faisalabad Plant,Quality Control,2026-04,1
+Head Office,SALES & MARKETING,2026-04,1
+Korangi Plant,spinning,2026-04,1
+Korangi Plant,Weaving,2026-04,1
+SITE Plant,DYEING,2026-04,1
+Faisalabad Plant,Stitching,2026-05,3
+Korangi Plant,Maintenance,2026-05,1
+Korangi Plant,Quality Control,2026-05,2
+Korangi Plant,weaving,2026-05,1
+SITE Plant,Dyeing,2026-05,2
+Faisalabad Plant,Maintenance,2026-06,1
+Head Office,it,2026-06,1
+Head Office,SUPPLY CHAIN,2026-06,2
+Korangi Plant,Quality Control,2026-06,1
+Korangi Plant,Weaving,2026-06,2
+SITE Plant,Dyeing,2026-06,2
+Faisalabad Plant,Cutting,2026-07,1
+Faisalabad Plant,Quality Control,2026-07,1
+Faisalabad Plant,Stitching,2026-07,1
+Korangi Plant,Maintenance,2026-07,1
+Korangi Plant,Quality Control,2026-07,1
+Korangi Plant,Warehouse,2026-07,1
+SITE Plant,Maintenance,2026-07,1
+Faisalabad Plant,Cutting,2026-08,1
+Faisalabad Plant,Packing,2026-08,2
+Faisalabad Plant,Warehouse,2026-08,1
+Head Office,ADMINISTRATION,2026-08,1
+Korangi Plant,Spinning,2026-08,1
+Korangi Plant,Weaving,2026-08,1
+SITE Plant,Dyeing,2026-08,3
+SITE Plant,Maintenance,2026-08,1
+SITE Plant,Utilities,2026-08,1
+Faisalabad Plant,Stitching,2026-09,1
+Head Office,Administration,2026-09,1
+Korangi Plant,Spinning,2026-09,1
+SITE Plant,Maintenance,2026-09,1
+SITE Plant,Finishing,21-Apr-,1
+Korangi Plant,Weaving,21-Dec-,1
+Faisalabad Plant,packing,21-Jun-,1
+Faisalabad Plant,Warehouse,21-Jun-,1
+SITE Plant,Dyeing,21-Jun-,1
+Faisalabad Plant,stitching,21-Mar-,1
+SITE Plant,Dyeing,21-Oct-,2
+Faisalabad Plant,Stitching,21/02/2,1
+Korangi Plant,Spinning,21/02/2,1
+Faisalabad Plant,Stitching,21/03/2,1
+Head Office,Sales & Marketing,21/03/2,1
+Korangi Plant,Weaving,21/04/2,1
+SITE Plant,warehouse,21/05/2,1
+Head Office,Procurement,21/06/2,1
+Faisalabad Plant,Stitching,21/08/2,1
+Faisalabad Plant,Cutting,21/10/2,1
+Korangi Plant,Production Planning,21/10/2,1
+SITE Plant,Dyeing,21/11/2,1
+Korangi Plant,Weaving,22-Apr-,2
+Korangi Plant,Spinning,22-Dec-,1
+Korangi Plant,Spinning,22-Jun-,1
+Korangi Plant,WEAVING,22-Sep-,1
+Korangi Plant,quality control,22/02/2,1
+Faisalabad Plant,Cutting,22/03/2,1
+Head Office,Sales & Marketing,22/03/2,1
+SITE Plant,Finishing,22/03/2,2
+SITE Plant,DYEING,22/04/2,1
+Faisalabad Plant,Maintenance,22/06/2,1
+Head Office,Procurement,22/06/2,1
+Korangi Plant,Weaving,22/06/2,1
+Faisalabad Plant,WAREHOUSE,22/07/2,1
+Head Office,Human Resources,22/07/2,1
+Faisalabad Plant,packing,22/08/2,1
+SITE Plant,Dyeing,22/10/2,1
+Korangi Plant,Quality Control,22/12/2,1
+SITE Plant,Finishing,22/12/2,1
+Faisalabad Plant,Cutting,23-Jan-,1
+Korangi Plant,Weaving,23-Jul-,1
+Korangi Plant,Spinning,23-Nov-,1
+SITE Plant,Dyeing,23-Oct-,1
+Korangi Plant,Spinning,23-Sep-,1
+Korangi Plant,Spinning,23/01/2,1
+Faisalabad Plant,cutting,23/02/2,1
+Korangi Plant,Quality Control,23/02/2,1
+Head Office,SALES & MARKETING,23/03/2,1
+Korangi Plant,weaving,23/03/2,1
+Faisalabad Plant,Cutting,23/04/2,1
+Faisalabad Plant,stitching,23/04/2,1
+Korangi Plant,Spinning,23/04/2,1
+SITE Plant,Dyeing,23/04/2,1
+Head Office,SALES & MARKETING,23/05/2,1
+Korangi Plant,spinning,23/05/2,1
+Faisalabad Plant,Stitching,23/06/2,1
+Head Office,Compliance,23/07/2,1
+Korangi Plant,Weaving,23/07/2,1
+SITE Plant,Finishing,23/07/2,1
+Head Office,compliance,23/08/2,1
+SITE Plant,Processing,23/08/2,1
+SITE Plant,Utilities,23/11/2,1
+Korangi Plant,Quality Control,23/12/2,1
+Faisalabad Plant,Cutting,24-Apr-,1
+Korangi Plant,WEAVING,24-Apr-,1
+Faisalabad Plant,Stitching,24-Aug-,1
+Korangi Plant,Weaving,24-Feb-,2
+Faisalabad Plant,Maintenance,24-Mar-,1
+Korangi Plant,Spinning,24-Oct-,2
+Faisalabad Plant,Stitching,24/02/2,1
+Korangi Plant,warehouse,24/02/2,1
+SITE Plant,Processing,24/02/2,2
+Faisalabad Plant,MAINTENANCE,24/04/2,1
+Head Office,Human Resources,24/04/2,1
+Korangi Plant,Weaving,24/04/2,1
+Faisalabad Plant,stitching,24/05/2,1
+Faisalabad Plant,Quality Control,24/06/2,1
+Faisalabad Plant,Stitching,24/06/2,1
+SITE Plant,FINISHING,24/06/2,1
+Faisalabad Plant,Warehouse,24/09/2,1
+SITE Plant,Dyeing,24/09/2,1
+Head Office,Procurement,24/10/2,1
+Korangi Plant,Spinning,24/11/2,1
+Faisalabad Plant,STITCHING,25-Aug-,1
+SITE Plant,Quality Control,25-Dec-,1
+Faisalabad Plant,Cutting,25-Jan-,1
+SITE Plant,Quality Control,25-Jan-,2
+Korangi Plant,Spinning,25-Mar-,1
+Faisalabad Plant,Warehouse,25-May-,1
+SITE Plant,Processing,25-May-,1
+Faisalabad Plant,stitching,25-Oct-,1
+SITE Plant,Dyeing,25/01/2,1
+SITE Plant,Dyeing,25/02/2,1
+SITE Plant,Dyeing,25/04/2,1
+Korangi Plant,Weaving,25/08/2,1
+SITE Plant,dyeing,25/08/2,1
+SITE Plant,Quality Control,25/08/2,1
+Faisalabad Plant,STITCHING,25/10/2,1
+SITE Plant,Utilities,25/10/2,1
+Korangi Plant,Production Planning,25/11/2,1
+Head Office,Sales & Marketing,25/12/2,1
+Korangi Plant,weaving,25/12/2,1
+Faisalabad Plant,STITCHING,26-Jun-,1
+Faisalabad Plant,Packing,26-May-,2
+SITE Plant,Utilities,26-Nov-,1
+Korangi Plant,Spinning,26/01/2,1
+Korangi Plant,weaving,26/02/2,1
+SITE Plant,Dyeing,26/02/2,1
+Korangi Plant,Weaving,26/03/2,1
+Faisalabad Plant,Stitching,26/06/2,1
+Korangi Plant,Spinning,26/06/2,1
+Korangi Plant,Weaving,26/06/2,1
+SITE Plant,Warehouse,26/06/2,1
+Korangi Plant,Production Planning,26/08/2,1
+Faisalabad Plant,Stitching,26/09/2,1
+Korangi Plant,Spinning,26/10/2,1
+SITE Plant,Warehouse,26/10/2,1
+Korangi Plant,spinning,26/11/2,1
+SITE Plant,Dyeing,26/11/2,1
+Faisalabad Plant,Stitching,27-Jan-,1
+Faisalabad Plant,Stitching,27-Mar-,1
+Faisalabad Plant,Cutting,27-Nov-,1
+Korangi Plant,spinning,27-Nov-,1
+SITE Plant,Maintenance,27-Oct-,1
+Head Office,Supply Chain,27-Sep-,1
+Korangi Plant,Maintenance,27/01/2,1
+SITE Plant,Finishing,27/02/2,2
+Korangi Plant,Spinning,27/04/2,1
+Faisalabad Plant,Stitching,27/10/2,1
+Korangi Plant,warehouse,27/10/2,1
+Head Office,Sales & Marketing,27/11/2,1
+SITE Plant,Quality Control,27/11/2,1
+Faisalabad Plant,Stitching,28-Aug-,1
+Faisalabad Plant,Stitching,28-Feb-,1
+Head Office,Administration,28-Feb-,1
+Faisalabad Plant,Cutting,28-Mar-,1
+SITE Plant,Finishing,28-Sep-,1
+Head Office,human resources,28/01/2,1
+Korangi Plant,Weaving,28/01/2,1
+Faisalabad Plant,Stitching,28/04/2,1
+Korangi Plant,SPINNING,28/05/2,1
+Faisalabad Plant,PACKING,28/08/2,1
+Korangi Plant,Weaving,28/11/2,1
+SITE Plant,DYEING,29-Apr-,1
+Faisalabad Plant,Cutting,29-Aug-,1
+Faisalabad Plant,stitching,29-Jan-,1
+Korangi Plant,QUALITY CONTROL,29-Jun-,1
+Korangi Plant,Weaving,29-May-,1
+Faisalabad Plant,Quality Control,29/01/2,1
+Faisalabad Plant,Packing,29/02/2,1
+Faisalabad Plant,Quality Control,29/03/2,1
+Korangi Plant,Weaving,29/04/2,1
+Korangi Plant,Production Planning,29/05/2,1
+Faisalabad Plant,Stitching,29/08/2,1
+Korangi Plant,Weaving,29/09/2,1
+Korangi Plant,Weaving,29/10/2,1
+Korangi Plant,Spinning,29/11/2,1
+Korangi Plant,Weaving,29/11/2,1
+Korangi Plant,Production Planning,30-Aug-,1
+Korangi Plant,spinning,30-Dec-,1
+SITE Plant,Processing,30-Dec-,1
+SITE Plant,dyeing,30-Jan-,1
+SITE Plant,Finishing,30-Jul-,1
+Faisalabad Plant,Stitching,30-Sep-,1
+Faisalabad Plant,Quality Control,30/05/2,1
+Head Office,Compliance,30/05/2,1
+Faisalabad Plant,Stitching,30/06/2,1
+Faisalabad Plant,Cutting,30/07/2,1
+Korangi Plant,Weaving,30/08/2,1
+SITE Plant,Finishing,30/08/2,1
+SITE Plant,Finishing,30/11/2,1
+Korangi Plant,Production Planning,31-Aug-,2
+SITE Plant,Dyeing,31-Jan-,1
+SITE Plant,Maintenance,31-Jan-,1
+Faisalabad Plant,Stitching,31-Jul-,1
+SITE Plant,maintenance,31-Mar-,1
+SITE Plant,MAINTENANCE,31-May-,1
+Faisalabad Plant,Cutting,31-Oct-,1
+Faisalabad Plant,packing,31-Oct-,2
+Faisalabad Plant,Packing,31/03/2,1
+Faisalabad Plant,STITCHING,31/05/2,1
+Korangi Plant,Weaving,31/07/2,1
+Faisalabad Plant,Cutting,31/08/2,1
+Faisalabad Plant,PACKING,31/10/2,1
+SITE Plant,dyeing,31/10/2,1
+Faisalabad Plant,QUALITY CONTROL,31/12/2,1

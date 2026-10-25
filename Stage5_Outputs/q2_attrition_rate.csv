@@ -1,0 +1,97 @@
+department,separation_month,separations
+Administration,,20
+Compliance,,12
+Cutting,,81
+Dyeing,,110
+finance,,20
+Finishing,,72
+Human Resources,,14
+IT,,14
+Maintenance,,103
+PACKING,,63
+Processing,,31
+Procurement,,11
+Production Planning,,26
+Quality Control,,105
+SALES & MARKETING,,24
+Spinning,,117
+Stitching,,151
+Supply Chain,,10
+UTILITIES,,33
+Warehouse,,79
+WEAVING,,130
+DYEING,01-Sep-,1
+STITCHING,01/06/2,1
+IT,02-Jul-,1
+Packing,02/07/2,1
+sales & marketing,03-Aug-,1
+it,03-Jul-,1
+Cutting,04-Sep-,1
+Maintenance,04/06/2,1
+finishing,05/09/2,1
+finance,06/04/2,1
+weaving,06/05/2,1
+Stitching,07-Aug-,1
+Stitching,08/06/2,1
+Spinning,09-Sep-,1
+cutting,11-Jul-,1
+MAINTENANCE,11-Sep-,1
+Spinning,11/04/2,1
+Finishing,11/05/2,1
+Spinning,11/05/2,1
+stitching,14-May-,1
+Warehouse,14-May-,1
+Human Resources,14/04/2,1
+Stitching,15-Sep-,1
+Weaving,15/04/2,1
+Production Planning,15/07/2,1
+WEAVING,16-May-,1
+Weaving,16/04/2,1
+Weaving,16/07/2,1
+Packing,18-May-,1
+maintenance,18/06/2,1
+Quality Control,20/04/2,1
+stitching,20/08/2,1
+Cutting,2026-04,1
+Packing,2026-04,2
+STITCHING,2026-04,1
+weaving,2026-04,2
+compliance,2026-05,1
+Dyeing,2026-05,3
+Spinning,2026-05,2
+Utilities,2026-05,1
+Warehouse,2026-05,1
+PACKING,2026-06,1
+UTILITIES,2026-06,1
+warehouse,2026-06,1
+Weaving,2026-06,3
+Dyeing,2026-07,2
+maintenance,2026-07,3
+PACKING,2026-07,1
+Processing,2026-07,2
+Quality Control,2026-07,3
+Spinning,2026-07,1
+Supply Chain,2026-07,1
+WAREHOUSE,2026-07,2
+Cutting,2026-08,2
+dyeing,2026-08,1
+Maintenance,2026-08,1
+WEAVING,2026-08,1
+MAINTENANCE,2026-09,1
+Packing,2026-09,1
+Quality Control,2026-09,1
+stitching,2026-09,1
+STITCHING,22/06/2,1
+Cutting,22/09/2,1
+HUMAN RESOURCES,23-Apr-,1
+Stitching,23/04/2,1
+Dyeing,23/06/2,1
+QUALITY CONTROL,24-Jul-,1
+UTILITIES,24-Jul-,1
+PACKING,24/06/2,1
+Maintenance,25/07/2,1
+PROCESSING,26/06/2,1
+PRODUCTION PLANNING,27-Aug-,1
+Warehouse,28-Jul-,1
+stitching,30/05/2,1
+Dyeing,30/07/2,1
